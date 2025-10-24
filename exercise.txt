@@ -1,1 +1,11 @@
+Text níže je označení konfliktní oblasti. Ta se dělí vždy na 2 části:
+1. část: <<<< Lokální změny a ID/Head commit
+2. čast: ==== rozdělení lokal/remote změn
+3. část: za ==== je příchozí část konfliktní oblasti z remote (github)
+
+
+<<<<<<< HEAD
 Tento text jsme vložili na lokálu
+=======
+Soubor změněný na Github
+>>>>>>> 7db4674a9d9a560c8def690a00c8b7a2f24ba4e5
